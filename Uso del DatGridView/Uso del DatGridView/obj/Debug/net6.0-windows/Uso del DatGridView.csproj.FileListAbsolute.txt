@@ -1,0 +1,33 @@
+C:\Users\UNI-03\Desktop\Clase20-02\Uso del DatGridView\Uso del DatGridView\bin\Debug\net6.0-windows\Uso del DatGridView.exe
+C:\Users\UNI-03\Desktop\Clase20-02\Uso del DatGridView\Uso del DatGridView\bin\Debug\net6.0-windows\Uso del DatGridView.deps.json
+C:\Users\UNI-03\Desktop\Clase20-02\Uso del DatGridView\Uso del DatGridView\bin\Debug\net6.0-windows\Uso del DatGridView.runtimeconfig.json
+C:\Users\UNI-03\Desktop\Clase20-02\Uso del DatGridView\Uso del DatGridView\bin\Debug\net6.0-windows\Uso del DatGridView.dll
+C:\Users\UNI-03\Desktop\Clase20-02\Uso del DatGridView\Uso del DatGridView\bin\Debug\net6.0-windows\Uso del DatGridView.pdb
+C:\Users\UNI-03\Desktop\Clase20-02\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso del DatGridView.csproj.AssemblyReference.cache
+C:\Users\UNI-03\Desktop\Clase20-02\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso_del_DatGridView.Form1.resources
+C:\Users\UNI-03\Desktop\Clase20-02\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso del DatGridView.csproj.GenerateResource.cache
+C:\Users\UNI-03\Desktop\Clase20-02\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso del DatGridView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNI-03\Desktop\Clase20-02\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso del DatGridView.AssemblyInfoInputs.cache
+C:\Users\UNI-03\Desktop\Clase20-02\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso del DatGridView.AssemblyInfo.cs
+C:\Users\UNI-03\Desktop\Clase20-02\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso del DatGridView.csproj.CoreCompileInputs.cache
+C:\Users\UNI-03\Desktop\Clase20-02\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso del DatGridView.dll
+C:\Users\UNI-03\Desktop\Clase20-02\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\refint\Uso del DatGridView.dll
+C:\Users\UNI-03\Desktop\Clase20-02\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso del DatGridView.pdb
+C:\Users\UNI-03\Desktop\Clase20-02\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso del DatGridView.genruntimeconfig.cache
+C:\Users\UNI-03\Desktop\Clase20-02\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\ref\Uso del DatGridView.dll
+C:\Users\johao\source\repos\Uso del DatGridView\Uso del DatGridView\bin\Debug\net6.0-windows\Uso del DatGridView.exe
+C:\Users\johao\source\repos\Uso del DatGridView\Uso del DatGridView\bin\Debug\net6.0-windows\Uso del DatGridView.deps.json
+C:\Users\johao\source\repos\Uso del DatGridView\Uso del DatGridView\bin\Debug\net6.0-windows\Uso del DatGridView.runtimeconfig.json
+C:\Users\johao\source\repos\Uso del DatGridView\Uso del DatGridView\bin\Debug\net6.0-windows\Uso del DatGridView.dll
+C:\Users\johao\source\repos\Uso del DatGridView\Uso del DatGridView\bin\Debug\net6.0-windows\Uso del DatGridView.pdb
+C:\Users\johao\source\repos\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso_del_DatGridView.Form1.resources
+C:\Users\johao\source\repos\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso del DatGridView.csproj.GenerateResource.cache
+C:\Users\johao\source\repos\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso del DatGridView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johao\source\repos\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso del DatGridView.AssemblyInfoInputs.cache
+C:\Users\johao\source\repos\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso del DatGridView.AssemblyInfo.cs
+C:\Users\johao\source\repos\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso del DatGridView.csproj.CoreCompileInputs.cache
+C:\Users\johao\source\repos\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso del DatGridView.dll
+C:\Users\johao\source\repos\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\refint\Uso del DatGridView.dll
+C:\Users\johao\source\repos\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso del DatGridView.pdb
+C:\Users\johao\source\repos\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\Uso del DatGridView.genruntimeconfig.cache
+C:\Users\johao\source\repos\Uso del DatGridView\Uso del DatGridView\obj\Debug\net6.0-windows\ref\Uso del DatGridView.dll
